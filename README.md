@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Edgar Delgadillo Cortez</h1>
 <h3 align="center">A passionate frontend developer and learning Backend from México</h3>
 
+- 🇲🇽 🇺🇸 English and Spanish
+
+- 👷🏼👷🏼‍♀️ I dont have any kind of laboral experience
+
 - 🏳️ I am a person who enjoys learning, leading and collaborating in a team 
 
 - 🎓 I am in the Third Semester of Computer Engineering at the Faculty of Sciences and Humanities Aragon
