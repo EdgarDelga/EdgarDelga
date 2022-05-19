@@ -1,4 +1,4 @@
-### Hi there 👋
+[### Hi there 👋
 
 <!--
 **EdgarDelga/EdgarDelga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+-->](https://www.linkedin.com/in/edgar-delgadillo-cortez-a45b1823a/)
