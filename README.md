@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Edgar Delgadillo Cortez</h1>
 <h3 align="center">A passionate frontend developer and learning Backend from México</h3>
 
+- I am a person who enjoys learning, leading and collaborating in a team
+
+- I am in the Third Semester of Computer Engineering at the Faculty of Sciences and Humanities Aragon
+
+-I have various knowledge about design, communication, leadership, audio and video editing, singer, guitarist and animal lover!
+
 - 🌱 I’m currently learning **Backend and Frontend (Angular and React)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/EdgarDelga](https://github.com/EdgarDelga)
