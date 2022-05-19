@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **edelgadillo112@gmail.com**
 
-- ⚡ Curious fact **Im a non-binary person, but you can refer to me with any gender :D **
+- ⚡ Curious fact **Im a non-binary person, but you can refer to me with any gender :D**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
