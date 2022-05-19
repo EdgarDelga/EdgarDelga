@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Edgar Delgadillo Cortez</h1>
 <h3 align="center">A passionate frontend developer and learning Backend from México</h3>
 
-- 🇲🇽 🇺🇸 English and Spanish
+<h3 align="start"> 👷🏼👷🏼‍♀️  I worked on the LaunchX 2022 Hackathon (Frontend) **Tiktok:** https://www.tiktok.com/@equipoajolote/video/7098127592884079877?is_copy_url=1&is_from_webapp=v1  **Page:**https://green-travel.herokuapp.com </h3> 
 
-- 👷🏼👷🏼‍♀️ I dont have any kind of laboral experience
+
+- - 🇲🇽 🇺🇸 English and Spanish
 
 - 🏳️ I am a person who enjoys learning, leading and collaborating in a team 
 
-- 🎓 I am in the Third Semester of Computer Engineering at the Faculty of Sciences and Humanities Aragon
+- 🎓 I am in the Third Semester of Computer Engineering at the Facultad de Estudios Superiores Aragon
 
 - 🎵 I have various knowledge about design, communication, leadership, audio and video editing, singer, guitarist and animal lover!
 
