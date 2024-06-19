@@ -8,7 +8,7 @@
 
 - 🏳️ I am a person who enjoys learning, leading and collaborating in a team 
 
-- 🎓 I am in the Third Semester of Computer Engineering at the Facultad de Estudios Superiores Aragon
+- 🎓 I am in the 7th Semester of Computer Engineering at the Facultad de Estudios Superiores Aragon
 
 - 🎵 I have various knowledge about design, communication, leadership, audio and video editing, singer, guitarist and animal lover!
 
@@ -21,6 +21,8 @@
 - 📫 How to reach me **edelgadillo112@gmail.com**
 
 - ⚡ Curious fact **Im a non-binary person, but you can refer to me with any gender :D**
+
+- 🎓 Personal project (IMFUR) [https://github.com/EdgarDelga/IMFUR-Page](https://github.com/EdgarDelga/IMFUR-Page)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
